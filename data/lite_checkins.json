@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2025-11-21T19:30:59.017741",
+    "mood_label": "\ud83d\ude14 Drained",
+    "mood_score": 1,
+    "mood_notes": "",
+    "traits": {
+      "D": 65.0,
+      "I": 20.0,
+      "S": 65.0,
+      "C": 70.0
+    },
+    "trait_score": 55.0,
+    "harmony_ratio": 0.0,
+    "perceived_stage": "Stage 7 \u2014 Generativity vs. Stagnation",
+    "auto_stage": "Stage 7 \u2014 Generativity vs. Stagnation"
+  }
+]
